@@ -1,4 +1,4 @@
-# Dreamsuntoldalexes-oss
+
 # 👋 Hi, I'm Adekanmbi Uthman
 
 ### AI & Web Developer • Graphic Designer
@@ -18,15 +18,23 @@ HTML • CSS • JavaScript • React • Node.js • Git • GitHub • AI Tool
 
 ## 🌟 Featured Projects
 
-Coming soon — building and documenting new projects.
+### 🧠 Neuron Guide
+An AI-focused directory for discovering useful AI tools and technologies.
+
+### 🌐 CyberDreams
+A personal space for exploring AI, web development, cybersecurity, and creative technology.
 
 ## 📌 Currently
 
 > Learning • Building • Creating • Exploring
 
+## 🎯 Goal
+
+Turning ideas into useful digital products through **AI, technology, code, and creativity**.
+
 ## 🌐 Connect With Me
 
-- **GitHub:** @CyberDreams
+- **GitHub:** @dreamsuntoldalexes-oss
 - **X:** @CyberDreams01
 
 ---
