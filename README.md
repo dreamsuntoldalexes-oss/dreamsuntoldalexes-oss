@@ -44,7 +44,7 @@ An AI-focused directory for discovering useful AI tools and emerging technologie
 
 **Tech:** TypeScript • React • AI
 
-🔗 [View Neuron Guide](https://github.com/DreamsUntoldAlexes/neuron-guide)
+🔗 [View Neuron Guide](https://github.com/dreamsuntoldalexes-oss/neuron-guide)
 
 ---
 
